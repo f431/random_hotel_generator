@@ -1,1 +1,1 @@
-# random_hotel_generator
+# Random Hotel Generator
